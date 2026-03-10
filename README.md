@@ -5,7 +5,7 @@ Currently, I'm contributing to LLM-driven solutions in the fintech sector while 
 ---
 ## 🚀 Highlighted Project: Olfactura AI
 **The Agentic Perfume Advisor (Academic Portfolio Piece)** 
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-yellow)](https://huggingface.co/spaces/alperkalamanoglu/olfactura-ai)
+[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-yellow)](https://huggingface.co/spaces/alperkalamanoglu/olfactura-ai) 
 **The Challenge:** Mimicking human-like olfactory logic with 100% factual accuracy.
 **The Solution:** An Agentic RAG system using **3072-D Vector Mathematics** and **Cross-Encoder Reranking**.
 ### 📊 Engineering Excellence (RAGAS Driven)
