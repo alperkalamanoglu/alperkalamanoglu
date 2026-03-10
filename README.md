@@ -19,4 +19,4 @@ Currently, I'm contributing to LLM-driven solutions in the fintech sector while 
 ---
 ## 📬 Connect with me
 - **LinkedIn:** [linkedin.com/in/alperkalamanoglu](https://linkedin.com/in/alperkalamanoglu)
-- **Email:** [alperkalamanoglu@gmail.com](alperkalamanoglu@gmail.com)
+- **Email:** alperkalamanoglu@gmail.com
