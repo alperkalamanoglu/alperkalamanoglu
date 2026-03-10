@@ -22,6 +22,15 @@ I specialize in building robust AI agents and enterprise-grade RAG systems. Curr
 
 ---
 
+## 📚 Publications
+### Semantic Segmentation of Mammography Images with Deep Learning 
+**IEEE Xplore | 2025 | Language: Turkish**
+- **The Work:** A comparative study of deep learning architectures (U-Net, MultiResUNet, EfficientViT) for medical image segmentation.
+- **Key Outcome:** Achieved **79.13% Dice Score** utilizing MultiResUNet and custom hybrid loss functions (Weighted BCE + Dice Loss).
+- **Links:** [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11208474)
+
+---
+
 ## 📬 Connect with me
 - **LinkedIn:** [linkedin.com/in/alperkalamanoglu](https://linkedin.com/in/alperkalamanoglu)
 - **Email:** alperkalamanoglu@gmail.com
